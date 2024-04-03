@@ -42,5 +42,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Hp Life IT-4D4D4D?&style=for-the-badge&HPA&logoColor=white" />
 </div>
 
-## Projects
--File Management
+
