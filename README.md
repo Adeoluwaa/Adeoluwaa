@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Analysis and Report           | <a href="https://docs.google.com/document/d/1q7UR4n3cObPyFRF1RmSnF2vVeH-sCSb_fNVoE6cFrpY/edit#heading=h.rkogpw759h9x">Network Traffic Analysis</a>|
 | Incident Report Analysis                      | <a href="https://docs.google.com/document/d/1OU_35U6l_URzgioRbW62w-O4YHkRMXfU5-p1W0_hkCM/edit?resourcekey=0-GtDMB_CsrMlRkhWfNVfmwQ">Report Analysis</a>|
 | Wireshark Reading                             | <a href="https://docs.google.com/document/d/1nbP1MGSmqT0sPPAV6g2o0fdS6WfhsCjiJNgjPgS0idw/edit#heading=h.t89nxuf61gh">Wireshark TCP/HTTP Log</a>|
-| Python                                        | <a href="https://docs.google.com/document/d/1s_bqSEzvf4ofIRHHnUQyxaNHubvOnxSEgrquSiw4E38/edit?resourcekey=0-HgTR_X-2z8lEfKr7Z4UHwg#heading=h.qebvb1gjeclt">Updating a file using Python</a>|
+| Python                                        | <a href="https://github.com/Adeoluwaa/Python-Algorithm/tree/main">Updating a file using Python</a>|
 | SIEM Implementation and Log Reading           | <a href= "https://docs.google.com/document/d/1E6NaivaoYYJ8tH70cDpZKIxtZ-SYYe_2c-Hp2tZtXO4/edit#heading=h.shz1bcdh2tm3">DNS/HTTP Traffic log</a>|
 | SQL                                           | <a href="https://docs.google.com/document/d/1CHn0UE4uWnRz-XBmN6S0Y74JzVayCKFs2uJYKLVTpK8/edit#heading=h.adnh333husy">Filtering Database with SQL</a>|
 
