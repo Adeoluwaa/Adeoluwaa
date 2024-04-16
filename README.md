@@ -1,7 +1,7 @@
 # Hello, I'm Adeoluwa
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Security Analyst and project manager with over 2 years of experience helping businesses use new technologies to drive success. With a deep understanding of technological systems and an innate ability to identify and mitigate potential security threats, I am committed to safeguarding sensitive data and ensuring the integrity of information systems. I possess exceptional problem-solving abilities and a strong passion for continuous learning in the field of cybersecurity. With a proactive mindset, I actively seek out innovative and creative ways to protect against emerging threats and contribute to the advancement of cybersecurity practices. I am passionate about enlightening people and making them understand the basics of security awareness and to enlighten them on how to increase their security posture. And most importantly, I value having fun and being collaborative, inclusive, and authentic while I do it.
+I am a Security Analyst and project manager with over 2 years of experience helping businesses use new technologies to drive success. With a deep understanding of technological systems and an innate ability to identify and mitigate potential security threats, I am committed to safeguarding sensitive data and ensuring the integrity of information systems. 
 
 ## Objective
 
