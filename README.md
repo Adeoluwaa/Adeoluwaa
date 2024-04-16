@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installation of Application on LINUX          | <a href="https://github.com/Adeoluwaa/Installing-app-on-Linux-and-giving-file-permission.">Installation of Application on LINUX</a>|
-| LINUX                                         | <a href="https://docs.google.com/document/d/19NrE42FGzuAC8n_Cct_ALrav1jJDskmoG2WwEeD4TXo/edit?resourcekey=0-7VE0CEV3kGlIZsM0tmQibw#heading=h.adnh333husy">File Permission with LINUX</a>|
+| LINUX                                         | <a href="https://github.com/Adeoluwaa/File-permission-on-LINUX/tree/main">File Permission with LINUX</a>|
 | Network Traffic Analysis and Report           | <a href="https://docs.google.com/document/d/1q7UR4n3cObPyFRF1RmSnF2vVeH-sCSb_fNVoE6cFrpY/edit#heading=h.rkogpw759h9x">Network Traffic Analysis</a>|
 | Incident Report Analysis                      | <a href="https://docs.google.com/document/d/1OU_35U6l_URzgioRbW62w-O4YHkRMXfU5-p1W0_hkCM/edit?resourcekey=0-GtDMB_CsrMlRkhWfNVfmwQ">Report Analysis</a>|
 | Wireshark Reading                             | <a href="https://docs.google.com/document/d/1nbP1MGSmqT0sPPAV6g2o0fdS6WfhsCjiJNgjPgS0idw/edit#heading=h.t89nxuf61gh">Wireshark TCP/HTTP Log</a>|
