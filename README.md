@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Wireshark Reading                             | <a href="https://docs.google.com/document/d/1nbP1MGSmqT0sPPAV6g2o0fdS6WfhsCjiJNgjPgS0idw/edit#heading=h.t89nxuf61gh">Wireshark TCP/HTTP Log</a>|
 | Python                                        | <a href="https://github.com/Adeoluwaa/Python-Algorithm/tree/main">Updating a file using Python</a>|
 | SIEM Implementation and Log Reading           | <a href= "https://docs.google.com/document/d/1E6NaivaoYYJ8tH70cDpZKIxtZ-SYYe_2c-Hp2tZtXO4/edit#heading=h.shz1bcdh2tm3">DNS/HTTP Traffic log</a>|
-| SQL                                           | <a href="https://docs.google.com/document/d/1CHn0UE4uWnRz-XBmN6S0Y74JzVayCKFs2uJYKLVTpK8/edit#heading=h.adnh333husy">Filtering Database with SQL</a>|
+| SQL                                           | <a href="https://github.com/Adeoluwaa/SQL-QUERIES">Filtering Database with SQL</a>|
 
 ## Tools
 
