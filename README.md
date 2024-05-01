@@ -5,7 +5,7 @@ I am a Security Analyst and project manager with years of experience helping bus
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Team as a Tier 1 Analyst or work as an Incident response analyst or in the Identity and Access Management team.
+My journey in Technology Education has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Team as a Tier 1 Analyst or work as an Incident response analyst or in the Identity and Access Management team.
 
 ## Skills
 
