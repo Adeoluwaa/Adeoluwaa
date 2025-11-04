@@ -32,6 +32,7 @@ My philosophy: **Good governance is good business and measurable trust is the ne
 - Mapped AI system lifecycle risks to NIST AI RMF and EU AI Act guidelines.  
 - Produced Zero-Retention AI voice assistant checklist covering privacy-by-design, encryption, and transparency.  
 
+**[Link to AI Portfolio](https://www.notion.so/AI-Governance-Portfolio-262d80ed46248078afeac4684e3db638?source=copy_link)**
 
 ### 🛡️ [GDPR Gap Assessment – Avanzare Corporation](https://drive.google.com/drive/folders/1Z30vG5SM70P4OKVZ2oDJ7CnkeEWwBLCE?usp=drive_link)  
 - Conducted full GDPR readiness evaluation for a managed security service provider.  
@@ -60,11 +61,11 @@ My philosophy: **Good governance is good business and measurable trust is the ne
 
 ## ⚙️ Tools & Frameworks  
 
-**Security & GRC:** ISO 27001, NIST CSF, GDPR, NDPR, SOC 2, CBN Compliance
-**AI frameworks:** ISO 42001, NIST RMF, EU AI ACT
+**Security & GRC:** ISO 27001, NIST CSF, GDPR, NDPR, SOC 2, CBN Compliance  
+**AI frameworks:** ISO 42001, NIST RMF, EU AI ACT  
 **Technical Tools:** Microsoft 365, Google Cloud Platform, Splunk, Sentinel, Nessus, Qualys  
 **Documentation & Collaboration:** Notion, Confluence, Visme, Google Drive  
-**Programming / Scripting:** Python (basic), PowerShell (basic)
+**Programming / Scripting:** Python (basic), PowerShell (basic)   
 
 ---
 
